@@ -1,7 +1,5 @@
-# hello.py
-def main():
-    print("Hello from demo-1! just remove branch mand restart, ez.")
-
+def greet():
+    print("Hello, GitHub Actions!")
 
 if __name__ == "__main__":
-    main()
+    greet()
